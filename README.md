@@ -1,5 +1,3 @@
-![coding](https://github.com/ShubhamMishra6862/ShubhamMishra6862/assets/101014691/5b3e1078-b3a8-4d7d-9e10-0c41c36b5bed)
-
 # 💫 About Me:
 I am a Web Developer<br>Working on making MERN applications<br>More active on coding platforms<br><br>
 
@@ -11,9 +9,6 @@ GFG: [geeksforgeeks.org/user/spideyhome360/](https://auth.geeksforgeeks.org/user
 Codeforces: https://codeforces.com/profile/IONS<br>
 Leetcode: https://leetcode.com/TretaYug1/<br>
 ![](https://leetcard.jacoblin.cool/TretaYug1?ext=contest)<br><br>
-# 📊 GitHub Stats:
-![](https://github-readme-stats.vercel.app/api?username=ShubhamMishra6862&theme=dracula&hide_border=false&include_all_commits=false&count_private=false)<br/>
-![](https://github-readme-streak-stats.herokuapp.com/?user=ShubhamMishra6862&theme=dracula&hide_border=false)<br/>
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=ShubhamMishra6862&theme=dracula&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
+
 
 
