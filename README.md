@@ -29,9 +29,10 @@ Software Development / Software Engineer
 
 <a href="http://www.github.com/ShubhamMishra6862"><img src="https://github-readme-stats.vercel.app/api?username=ShubhamMishra6862&show_icons=true&hide=prs,&count_private=true&title_color=0891b2&text_color=ffffff&icon_color=0891b2&bg_color=1c1917&hide_border=true&show_icons=true" alt="ShubhamMishra6862's GitHub stats" /></a>
 
+<a href="http://www.github.com/ShubhamMishra6862"><img src="https://github-readme-streak-stats.herokuapp.com/?user=ShubhamMishra6862&stroke=ffffff&background=1c1917&ring=0891b2&fire=0891b2&currStreakNum=ffffff&currStreakLabel=0891b2&sideNums=ffffff&sideLabels=ffffff&dates=ffffff&hide_border=true" /></a>
+
 
 # Profile:
-Linkedin:https://www.linkedin.com/in/shubhammishra02/<br>
 GFG: [geeksforgeeks.org/user/spideyhome360/](https://auth.geeksforgeeks.org/user/spideyhome360)<br>
 Codeforces: https://codeforces.com/profile/IONS<br>
 Leetcode: https://leetcode.com/TretaYug1/<br>
