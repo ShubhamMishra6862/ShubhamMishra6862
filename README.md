@@ -35,7 +35,7 @@ I am a Computer Science & Engineering graduate from Lovely Professional Universi
 # Profile:
 GFG: [geeksforgeeks.org/user/spideyhome360/](https://auth.geeksforgeeks.org/user/spideyhome360)<br>
 Codeforces: https://codeforces.com/profile/IONS<br>
-Leetcode: https://leetcode.com/TretaYug1/<br>
+Leetcode: https://leetcode.com/ShubMr/<br>
 ![](https://leetcard.jacoblin.cool/TretaYug1?ext=contest)<br><br>
 
 
